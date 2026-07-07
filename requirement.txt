@@ -1,5 +1,0 @@
-pytelegrambotapi
-rembg
-pillow
-numpy
-opencv-python-headless
